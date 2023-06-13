@@ -14,7 +14,7 @@ Estoy buscando oportunidades para aplicar mis conocimientos y habilidades en el 
 
 ## Contacto
 
-Si estás interesado/a en colaborar en un proyecto o tienes alguna pregunta, no dudes en contactarme. Puedes encontrarme en [LinkedIn] (www.linkedin.com/in/nicomontejano).
+Si estás interesado/a en colaborar en un proyecto o tienes alguna pregunta, no dudes en contactarme. Puedes encontrarme en [LinkedIn](www.linkedin.com/in/nicomontejano).
 ¡Gracias por visitar mi perfil! Espero tener la oportunidad de trabajar contigo en el futuro.
 
 *Nicoo15*
