@@ -1,16 +1,20 @@
-### Hi there 👋
+# Perfil de Nicoo15
 
-<!--
-**Nicoo15/Nicoo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Bienvenido/a a mi perfil de GitHub. Soy un estudiante de último año de Ingeniería del Software con experiencia en metodologías ágiles de programación. Me apasiona el desarrollo de aplicaciones web y móviles, y he participado en diversos proyectos relacionados con estas áreas.
 
-Here are some ideas to get you started:
+## Experiencia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durante mi carrera universitaria, he adquirido habilidades técnicas sólidas en lenguajes de programación como JavaScript, Python y Java. Además, estoy familiarizado/a con frameworks y herramientas populares.
+
+He tenido la oportunidad de trabajar en equipo en varios proyectos, lo que me ha permitido desarrollar mis habilidades de colaboración y comunicación. También he tenido experiencia trabajando de manera independiente, lo que me ha enseñado a ser autónomo/a y a tomar decisiones técnicas de forma eficiente.
+
+## Objetivos
+
+Estoy buscando oportunidades para aplicar mis conocimientos y habilidades en el mundo real, y así contribuir a proyectos interesantes en el sector tecnológico. Me interesa seguir aprendiendo y creciendo profesionalmente, por lo que estoy abierto/a a desafíos y oportunidades de desarrollo.
+
+## Contacto
+
+Si estás interesado/a en colaborar en un proyecto o tienes alguna pregunta, no dudes en contactarme. Puedes encontrarme en [LinkedIn] (www.linkedin.com/in/nicomontejano).
+¡Gracias por visitar mi perfil! Espero tener la oportunidad de trabajar contigo en el futuro.
+
+*Nicoo15*
