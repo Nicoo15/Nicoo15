@@ -4,13 +4,13 @@
 
 ## Experiencia
 
-Durante mi carrera universitaria, he adquirido habilidades técnicas sólidas en lenguajes de programación como JavaScript, Python y Java. Además, estoy familiarizado/a con frameworks y herramientas populares.
+Durante mi carrera universitaria, he adquirido habilidades técnicas sólidas en lenguajes de programación como JavaScript, Python y Java. Además, estoy familiarizado con frameworks y herramientas populares.
 
-He tenido la oportunidad de trabajar en equipo en varios proyectos, lo que me ha permitido desarrollar mis habilidades de colaboración y comunicación. También he tenido experiencia trabajando de manera independiente, lo que me ha enseñado a ser autónomo/a y a tomar decisiones técnicas de forma eficiente.
+He tenido la oportunidad de trabajar en equipo en varios proyectos, lo que me ha permitido desarrollar mis habilidades de colaboración y comunicación. También he tenido experiencia trabajando de manera independiente, lo que me ha enseñado a ser autónomo y a tomar decisiones técnicas de forma eficiente.
 
 ## Objetivos
 
-Estoy buscando oportunidades para aplicar mis conocimientos y habilidades en el mundo real, y así contribuir a proyectos interesantes en el sector tecnológico. Me interesa seguir aprendiendo y creciendo profesionalmente, por lo que estoy abierto/a a desafíos y oportunidades de desarrollo.
+Estoy buscando oportunidades para aplicar mis conocimientos y habilidades en el mundo real, y así contribuir a proyectos interesantes en el sector tecnológico. Me interesa seguir aprendiendo y creciendo profesionalmente, por lo que estoy abierto a desafíos y oportunidades de desarrollo.
 
 ## Contacto
 
