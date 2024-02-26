@@ -4,7 +4,7 @@
 
 ## Experiencia
 
-Durante mi carrera universitaria, he adquirido habilidades técnicas sólidas en lenguajes de programación como JavaScript, Python y Java. Además, estoy familiarizado con frameworks y herramientas populares.
+Durante mi carrera universitaria, he adquirido habilidades técnicas sólidas en lenguajes de programación como JavaScript, React, Next, Python, C, C++, Java, ... Además, estoy familiarizado con frameworks, bases de datos, entornos y herramientas populares.
 
 He tenido la oportunidad de trabajar en equipo en varios proyectos, lo que me ha permitido desarrollar mis habilidades de colaboración y comunicación. También he tenido experiencia trabajando de manera independiente, lo que me ha enseñado a ser autónomo y a tomar decisiones técnicas de forma eficiente.
 
